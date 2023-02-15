@@ -10,3 +10,7 @@ export default function MyApp() {
     </div>
   );
 }
+
+
+
+export default App;
